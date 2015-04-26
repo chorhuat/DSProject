@@ -77,15 +77,19 @@
 
 **frequencyBodyGyroscope-mean()-X**   Data Type: Numeric  
 **frequencyBodyGyroscope-mean()-Y**   Data Type: Numeric  
-**fre**quencyBodyGyroscope-mean()-Z
-**frequencyBodyGyroscope-std()-X
-**frequencyBodyGyroscope-std()-Y
-**frequencyBodyGyroscope-std()-Z
-**frequencyBodyAccelerometerMagnitude-mean()
-**frequencyBodyAccelerometerMagnitude-std()
-**frequencyBodyAccelerometerJerkMagnitude-mean()
-**frequencyBodyAccelerometerJerkMagnitude-std()
-**frequencyBodyGyroscopeMagnitude-mean()
-**frequencyBodyGyroscopeMagnitude-std()
-**frequencyBodyGyroscopeJerkMagnitude-mean()
-**frequencyBodyGyroscopeJerkMagnitude-std()
+**frequencyBodyGyroscope-mean()-Z**   Data Type: Numeric  
+**frequencyBodyGyroscope-std()-X**   Data Type: Numeric  
+**frequencyBodyGyroscope-std()-Y**   Data Type: Numeric  
+**frequencyBodyGyroscope-std()-Z**   Data Type: Numeric  
+
+**frequencyBodyAccelerometerMagnitude-mean()**   Data Type: Numeric  
+**frequencyBodyAccelerometerMagnitude-std()**   Data Type: Numeric  
+
+**frequencyBodyAccelerometerJerkMagnitude-mean()**   Data Type: Numeric  
+**frequencyBodyAccelerometerJerkMagnitude-std()**   Data Type: Numeric  
+
+**frequencyBodyGyroscopeMagnitude-mean()**   Data Type: Numeric  
+**frequencyBodyGyroscopeMagnitude-std()**   Data Type: Numeric  
+
+**frequencyBodyGyroscopeJerkMagnitude-mean()**   Data Type: Numeric  
+**frequencyBodyGyroscopeJerkMagnitude-std()**   Data Type: Numeric  
