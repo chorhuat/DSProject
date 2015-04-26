@@ -1,8 +1,8 @@
 ## DATA DICTIONARY
-subject   Data Type Numeric
+**subject**   Data Type: Numeric
           Range 1 to 30        
 
-activity  Data Type Numeric
+**activity**  Data Type: Numeric
           1 Walking
           2 Walking Upstairs
           3 Walking Downstairs
@@ -10,21 +10,21 @@ activity  Data Type Numeric
           5 Standing
           6 Laying
 
-timeBodyAccelerometer-mean()-X          Data Type: Numeric
-timeBodyAccelerometer-mean()-Y          Data Type: Numeric
-timeBodyAccelerometer-mean()-Z          Data Type: Numeric
+**timeBodyAccelerometer-mean()-X**  Data Type: Numeric
+**timeBodyAccelerometer-mean()-Y**  Data Type: Numeric
+**timeBodyAccelerometer-mean()-Z**  Data Type: Numeric
 
-timeBodyAccelerometer-std()-X           Data Typr: Numeric
-timeBodyAccelerometer-std()-Y
-timeBodyAccelerometer-std()-Z
+**timeBodyAccelerometer-std()-X**   Data Typr: Numeric
+**timeBodyAccelerometer-std()-Y**   Data Type: Numeric
+**timeBodyAccelerometer-std()-Z**   Data Tyoe: Numeric
 
-timeGravityAccelerometer-mean()-X
-timeGravityAccelerometer-mean()-Y
-timeGravityAccelerometer-mean()-Z
+**timeGravityAccelerometer-mean()-X**   Data Type: Numeric  
+**timeGravityAccelerometer-mean()-Y**   Data Type: Numeric
+**timeGravityAccelerometer-mean()-Z**   Data Type: Numeric
 
-timeGravityAccelerometer-std()-X
-timeGravityAccelerometer-std()-Y
-timeGravityAccelerometer-std()-Z
+**timeGravityAccelerometer-std()-X**   Data Type: Numeric
+**timeGravityAccelerometer-std()-Y**   Data Type: Numeric
+**timeGravityAccelerometer-std()-Z**   Data Type: Numeric
 
 timeBodyAccelerometerJerk-mean()-X
 timeBodyAccelerometerJerk-mean()-Y
