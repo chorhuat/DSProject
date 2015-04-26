@@ -1,31 +1,31 @@
 ## DATA DICTIONARY
-**subject**   Data Type: Numeric
+**subject**   Data Type: Numeric  
+              Value: 1 to 30  
 
-              Range 1 to 30        
 
-**activity**  Data Type: Numeric
-          1 Walking
-          2 Walking Upstairs
-          3 Walking Downstairs
-          4 Sitting
-          5 Standing
-          6 Laying
+**activity**  Data Type: Numeric  
+          1 Walking  
+          2 Walking Upstairs  
+          3 Walking Downstairs  
+          4 Sitting  
+          5 Standing  
+          6 Laying  
 
-**timeBodyAccelerometer-mean()-X**  Data Type: Numeric
-**timeBodyAccelerometer-mean()-Y**  Data Type: Numeric
-**timeBodyAccelerometer-mean()-Z**  Data Type: Numeric
+**timeBodyAccelerometer-mean()-X**  Data Type: Numeric  
+**timeBodyAccelerometer-mean()-Y**  Data Type: Numeric  
+**timeBodyAccelerometer-mean()-Z**  Data Type: Numeric  
 
-**timeBodyAccelerometer-std()-X**   Data Typr: Numeric
-**timeBodyAccelerometer-std()-Y**   Data Type: Numeric
-**timeBodyAccelerometer-std()-Z**   Data Tyoe: Numeric
+**timeBodyAccelerometer-std()-X**   Data Typr: Numeric  
+**timeBodyAccelerometer-std()-Y**   Data Type: Numeric  
+**timeBodyAccelerometer-std()-Z**   Data Tyoe: Numeric  
 
-**timeGravityAccelerometer-mean()-X**   Data Type: Numeric  
-**timeGravityAccelerometer-mean()-Y**   Data Type: Numeric
-**timeGravityAccelerometer-mean()-Z**   Data Type: Numeric
+**timeGravityAccelerometer-mean()-X**   Data Type: Numeric    
+**timeGravityAccelerometer-mean()-Y**   Data Type: Numeric  
+**timeGravityAccelerometer-mean()-Z**   Data Type: Numeric  
 
-**timeGravityAccelerometer-std()-X**   Data Type: Numeric
-**timeGravityAccelerometer-std()-Y**   Data Type: Numeric
-**timeGravityAccelerometer-std()-Z**   Data Type: Numeric
+**timeGravityAccelerometer-std()-X**   Data Type: Numeric  
+**timeGravityAccelerometer-std()-Y**   Data Type: Numeric  
+**timeGravityAccelerometer-std()-Z**   Data Type: Numeric  
 
 timeBodyAccelerometerJerk-mean()-X
 timeBodyAccelerometerJerk-mean()-Y
