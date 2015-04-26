@@ -1,6 +1,7 @@
 ## DATA DICTIONARY
 **subject**   Data Type: Numeric
-          Range 1 to 30        
+
+              Range 1 to 30        
 
 **activity**  Data Type: Numeric
           1 Walking
