@@ -1,5 +1,6 @@
-DATA DICTIONARY
-subject
+# DATA DICTIONARY
+subject   Numeric data
+          Range: 1 to 30        
 
 activity
 
