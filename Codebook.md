@@ -1,21 +1,31 @@
-# DATA DICTIONARY
-subject   Numeric data
-          Range: 1 to 30        
+## DATA DICTIONARY
+subject   Data Type Numeric
+          Range 1 to 30        
 
-activity
+activity  Data Type Numeric
+          1 Walking
+          2 Walking Upstairs
+          3 Walking Downstairs
+          4 Sitting
+          5 Standing
+          6 Laying
 
-timeBodyAccelerometer-mean()-X
-timeBodyAccelerometer-mean()-Y
-timeBodyAccelerometer-mean()-Z
-timeBodyAccelerometer-std()-X
+timeBodyAccelerometer-mean()-X          Data Type: Numeric
+timeBodyAccelerometer-mean()-Y          Data Type: Numeric
+timeBodyAccelerometer-mean()-Z          Data Type: Numeric
+
+timeBodyAccelerometer-std()-X           Data Typr: Numeric
 timeBodyAccelerometer-std()-Y
 timeBodyAccelerometer-std()-Z
+
 timeGravityAccelerometer-mean()-X
 timeGravityAccelerometer-mean()-Y
 timeGravityAccelerometer-mean()-Z
+
 timeGravityAccelerometer-std()-X
 timeGravityAccelerometer-std()-Y
 timeGravityAccelerometer-std()-Z
+
 timeBodyAccelerometerJerk-mean()-X
 timeBodyAccelerometerJerk-mean()-Y
 timeBodyAccelerometerJerk-mean()-Z
